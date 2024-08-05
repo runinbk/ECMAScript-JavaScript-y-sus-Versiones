@@ -13,5 +13,6 @@
   ],
   "author": "Kevin Gomez <brayankgr@gmail.com>",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
