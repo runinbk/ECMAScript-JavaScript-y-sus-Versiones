@@ -14,5 +14,8 @@
   "author": "Kevin Gomez <brayankgr@gmail.com>",
   "license": "MIT",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
